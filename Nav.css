@@ -1,0 +1,40 @@
+.Messi
+{
+    display:flex;
+    flex-direction: column;
+    justify-items: center;
+    text-align: center;
+    background-image: url("back.jpg");
+    background-size: 100%
+}
+.Nav
+{
+    height: 200px;
+    align-content: center;
+    padding-left: 200px;
+    padding-right: 250px;
+}
+.Nav > img
+{
+    float:left;
+    margin:23px;
+    height:200px;
+}
+.Nav > a
+{
+    font-weight: 10;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size:150%;
+    color:white;
+    text-decoration: none;
+    margin-top:150px;
+    margin-right:20px;
+    margin-left:20px;
+    float:right;
+}
+
+.Ronaldo
+{
+    height: 600px;
+    align-content: center;
+}

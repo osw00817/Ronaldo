@@ -1,0 +1,18 @@
+.Soccer
+{
+    height: 100%;    
+    margin: 0px;
+    background-color: #252b30;
+    float: center;
+    text-align: center;
+}
+.Soccer > p
+{
+    font-family: "Times New Roman", Times, serif;
+    margin:30px;
+    padding: 0px;
+}
+.Soccer > hr
+{
+    margin:0px;
+}

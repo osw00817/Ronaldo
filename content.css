@@ -1,0 +1,62 @@
+.Son
+{
+    height: 100%;    
+    margin: 0px;
+    background-color: #252b30;
+    float: center;
+    text-align: center;
+}
+.Son > h2
+{
+    color:white;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size:200%;
+    margin: 0px;
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
+.Son > hr
+{
+    margin-top:0px;
+    width: 150px;
+}
+.Son > h3
+{
+    font-family: 'Jeju Gothic', sans-serif;
+    font-size:100%;
+    margin: 0px;
+    padding: 80px;
+}
+.Son > h1
+{
+    font-family: "Arial Black", Gadget, sans-serif;
+    margin: 50px;
+}
+.Son > iframe
+{
+  margin: 50px auto;
+  display: block;
+  border:none;
+  width: 80vw;
+  height: 80vh;
+}
+.Son > img
+{
+    height: 400px;
+}
+.Son > .button {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 20px 64px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+ .son > p
+ {
+    font-family: "Arial Black", Gadget, sans-serif;
+ } 

@@ -5,7 +5,8 @@
     justify-items: center;
     text-align: center;
     background-image: url("back.jpg");
-    background-size: 100%
+    background-size: cover;
+    background-repeat: none;
 }
 .Nav
 {
